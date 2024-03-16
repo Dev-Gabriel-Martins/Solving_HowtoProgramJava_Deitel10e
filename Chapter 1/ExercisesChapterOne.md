@@ -1,4 +1,4 @@
-# Exercises Chapter 1
+﻿# Exercises Chapter 1
 
 **1.1 Preencha as lacunas em cada uma das seguintes afirmações:**  
 
