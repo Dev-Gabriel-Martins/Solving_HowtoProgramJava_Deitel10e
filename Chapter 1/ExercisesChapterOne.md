@@ -1,11 +1,7 @@
 ﻿# Chapter 1
 ![alt text](image.png)
-  
-Computer Organization 
    
 ![alt text](image-1.png)  
-
-
 
 ### Exercises:  
 
