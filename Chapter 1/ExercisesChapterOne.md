@@ -5,10 +5,11 @@
 
 ### Exercises:  
 
-**1.1 Preencha as lacunas em cada uma das seguintes afirmações:**  
+**1.1 Fill in the blanks in each of the following statements:**  
 
-a) Os computadores processam dados sob o controle de conjuntos de instruções chamados ________.  
-b) As principais unidades lógicas do computador são ________, ________, ________, ________, ________ e ________.  
+a) Computers process data under the control of sets of instructions
+called__.  
+b) As principais unidades lógicas do computador são __, __, ________, ________, ________ e ________.  
 c) Os três tipos de linguagens discutidas no capítulo são ________, ________ e ________.  
 d) Os programas que traduzem programas de linguagem de alto nível em linguagem de máquina são chamados ________.  
 e) ________ é um sistema operacional para dispositivos móveis baseados no kernel do Linux e Java.  
