@@ -7,14 +7,20 @@
 
 **1.1 Fill in the blanks in each of the following statements:**  
 
-a) Computers process data under the control of sets of instructions
-called__.  
-b) As principais unidades lógicas do computador são __, __, ________, ________, ________ e ________.  
-c) Os três tipos de linguagens discutidas no capítulo são ________, ________ e ________.  
-d) Os programas que traduzem programas de linguagem de alto nível em linguagem de máquina são chamados ________.  
-e) ________ é um sistema operacional para dispositivos móveis baseados no kernel do Linux e Java.  
-f) O software ________ em geral tem todos os recursos, sendo (supostamente) livre de erros e pronto para uso pela comunidade.  
-g) O Wii Remote, bem como muitos smartphones, usa um(a) ________ que permite ao dispositivo responder ao movimento.  
+1. Computers process data under the control of sets of instructions
+called .  
+2. The key logical units of the computer are the ,
+, , , and .  
+3. The three types of languages discussed in the chapter are
+, and .  
+4. The programs that translate high-level language programs into
+machine language are called .  
+5. is an operating system for mobile devices based on the
+Linux kernel and Java.  
+6. software is generally feature complete, (supposedly)
+bug free and ready for use by the community.  
+7. The Wii Remote, as well as many smartphones, use a(n)
+which allows the device to respond to motion.  
 
 **1.2 Preencha as lacunas em cada uma das seguintes frases sobre o ambiente Java:**  
 a) O comando ________ do JDK executa um aplicativo Java.  
