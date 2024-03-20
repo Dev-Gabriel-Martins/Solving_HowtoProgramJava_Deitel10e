@@ -36,48 +36,82 @@ are executed by the Java Virtual Machine.
 
 **1.3 Fill in the blanks in each of the following statements (based on Section
 1.5):**  
-a) Os objetos permitem a prática de ________ — embora eles possam se comunicar entre si por meio de interfaces bem definidas, nor-
-malmente não têm autorização para descobrir como outros objetos são implementados.  
-b) Os programadores Java concentram-se na criação de ________, que contêm campos e o conjunto de métodos que manipulam essescampos, além de fornecer serviços para clientes.  
-c) O processo de analisar e projetar um sistema de um ponto de vista orientado a objetos é chamado ________.  
-d) Uma nova classe de objetos pode ser convenientemente criada por ________ — a nova classe (chamada subclasse) começa com as
-características de uma classe existente (chamada superclasse), personalizando-as e talvez adicionando características próprias.  
-e) _e_ é uma linguagem gráfica que permite às pessoas que projetam sistemas de software utilizar uma notação padrão da indús-
-tria para representá-las.  
-f) O tamanho, forma, cor e peso de um objeto são considerados _f_ da classe dele  
+1. Objects enable the design practice of —although they
+may know how to communicate with one another across welldefined interfaces, they normally are not allowed to know how
+other objects are implemented.  
+2. Java programmers concentrate on creating , which
+contain fields and the set of methods that manipulate those fields
+and provide services to clients.  
+3. The process of analyzing and designing a system from an objectoriented point of view is called .  
+4. A new class of objects can be created conveniently by
+—the new class (called the subclass) starts with the
+characteristics of an existing class (called the superclass),
+possibly customizing them and adding unique characteristics of
+its own.  
+5. is a graphical language that allows people who design
+software systems to use an industry-standard notation to
+represent them.  
+6. The size, shape, color and weight of an object are considered
+of the object’s class.  
 
-**1.4 Preencha as lacunas em cada uma das seguintes afirmações:**  
-a) A unidade lógica que recebe informações de fora do computador para uso por ele é a ________.  
-b) O processo de instrução do computador para resolver um problema específico é chamado ________.  
-c) ________ é um tipo de linguagem de computador que utiliza abreviações em inglês para instruções de linguagem de máquina.  
-d) ________ é uma unidade lógica que envia informações que já foram processadas pelo computador para vários dispositivos, de modo
-que possam ser utilizadas fora da máquina.  
-e) ________ e ________ são unidades lógicas do computador que retêm informações.  
-f) ________ é uma unidade lógica do computador que realiza cálculos.  
-g) ________ é uma unidade lógica do computador que toma decisões lógicas.  
-h) As linguagens mais convenientes para que o programador escreva programas rápida e facilmente são as ________.  
-i) A única linguagem que um computador pode entender diretamente é a ________ dele.  
-j) ________ é uma unidade lógica do computador que coordena as atividades de todas as outras unidades lógicas.  
-**1.5 Preencha as lacunas em cada uma das seguintes afirmações:**  
-a) A linguagem de programação ________ é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
-funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.  
-b) Inicialmente, o ________ tornou-se muito conhecido como a linguagem de desenvolvimento do sistema operacional UNIX.  
-c) O ________ garante que as mensagens, que consistem em partes sequencialmente numeradas chamadas bytes, sejam adequadamente encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na ordem correta.  
-d) A linguagem de programação ________ foi desenvolvida por Bjarne Stroustrup no início dos anos 1980 na Bell Laboratories.  
+**1.4 Fill in the blanks in each of the following statements:**    
+1. The logical unit that receives information from outside the
+computer for use by the computer is the .  
+2. The process of instructing the computer to solve a problem is
+called .  
+3. is a type of computer language that uses Englishlike
+abbreviations for machine-language instructions.  
+4. is a logical unit that sends information which has
+already been processed by the computer to various devices so
+that it may be used outside the computer.  
+5. and are logical units of the computer that
+retain information.  
+6. is a logical unit of the computer that performs
+calculations.  
+7. is a logical unit of the computer that makes logical
+decisions.  
+8. languages are most convenient to the programmer for
+writing programs quickly and easily.  
+9. The only language a computer can directly understand is that
+computer’s .  
+10. is a logical unit of the computer that coordinates the
+activities of all the other logical units.  
 
-**1.6 Preencha as lacunas em cada uma das seguintes afirmações:**
-a) Os programas Java normalmente passam por cinco fases: ________, ________, ________, ________ e ________.  
-b) Um(a) ________ fornece muitas ferramentas que suportam o processo de desenvolvimento de software, como editores para escrever
-e editar programas, depuradores a fim de localizar erros de lógica em programas e muitos outros recursos.  
-c) O comando java invoca ________, que executa programas Java.  
-d) Um(a) ________ é um aplicativo de software que simula um computador, mas oculta o sistema operacional e o hardware subjacentes
-dos programas que interagem com ela(e).  
-e) O ________ transfere os arquivos .class contendo os bytecodes do programa para a memória principal.  
-f) O ________ examina bytecodes para assegurar que eles são válidos.  
+**1.5 Fill in the blanks in each of the following statements:**  
+1. The programming language is now used to develop
+large-scale enterprise applications, to enhance the functionality of
+web servers, to provide applications for consumer devices and for
+many other purposes.  
+2. initially became widely known as the development
+language of the UNIX operating system.  
+3. The ensures that messages, consisting of sequentially
+numbered pieces called bytes, were properly routed from sender
+to receiver, arrived intact and were assembled in the correct
+order.  
+4. The programming language was developed by Bjarne
+Stroustrup in the early 1980s at Bell Laboratories.   
 
-**1.7 Explique as duas fases de compilação de programas Java.**  
+**1.6 Fill in the blanks in each of the following statements:**
+1. Java programs normally go through five phases— ,
+, , and .  
+2. A(n) provides many tools that support the software
+development process, such as editors for writing and editing
+programs, debuggers for locating logic errors in programs, and
+many other features.  
+3. The command java invokes the , which executes
+Java programs.  
+4. A(n) is a software application that simulates a
+computer, but hides the underlying operating system and
+hardware from the programs that interact with it.  
+5. The takes the .class files containing the program’s
+bytecodes and transfers them to primary memory.  
+6. The examines bytecodes to ensure that they’re valid.  
 
-**1.8
-Um dos objetos mais comuns do mundo é um relógio de pulso. Discuta como cada um dos seguintes termos e conceitos se aplicam à no-
-ção de um relógio: objeto, atributos, comportamentos, classe, herança (considere, por exemplo, o alarme dele), modelagem, mensagens,
-encapsulamento, interface e ocultamento de informações.**  
+
+**1.7 Explain the two compilation phases of Java programs.**  
+
+**1.8 One of the world’s most common objects is a wrist watch. Discuss
+how each of the following terms and concepts applies to the notion of a
+watch: object, attributes, behaviors, class, inheritance (consider, for
+example, an alarm clock), modeling, messages, encapsulation, interface
+and information hiding.**  
