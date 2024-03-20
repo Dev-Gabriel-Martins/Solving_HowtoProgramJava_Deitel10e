@@ -22,14 +22,20 @@ bug free and ready for use by the community.
 7. The Wii Remote, as well as many smartphones, use a(n)
 which allows the device to respond to motion.  
 
-**1.2 Preencha as lacunas em cada uma das seguintes frases sobre o ambiente Java:**  
-a) O comando ________ do JDK executa um aplicativo Java.  
-b) O comando ________ do JDK compila um programa Java.  
-c) Um arquivo de código-fonte aberto Java deve terminar com a extensão ________.  
-d) Quando um programa Java é compilado, o arquivo produzido pelo compilador termina com a extensão ________.  
-e) O arquivo produzido pelo compilador Java contém ________, que são executados pela Java Virtual Machine.  
+**1.2 Fill in the blanks in each of the following sentences about the Java
+environment:**    
+1. The command from the JDK executes a Java
+application.  
+2. The command from the JDK compiles a Java program.  
+3. A Java source code file must end with the file
+extension.  
+4. When a Java program is compiled, the file produced by the
+compiler ends with the file extension.  
+5. The file produced by the Java compiler contains that
+are executed by the Java Virtual Machine.   
 
-**1.3 Preencha as lacunas de cada uma das sentenças a seguir (com base na Seção 1.5):**  
+**1.3 Fill in the blanks in each of the following statements (based on Section
+1.5):**  
 a) Os objetos permitem a prática de ________ — embora eles possam se comunicar entre si por meio de interfaces bem definidas, nor-
 malmente não têm autorização para descobrir como outros objetos são implementados.  
 b) Os programadores Java concentram-se na criação de ________, que contêm campos e o conjunto de métodos que manipulam essescampos, além de fornecer serviços para clientes.  
